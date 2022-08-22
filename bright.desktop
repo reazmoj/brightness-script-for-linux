@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=bright
+Exec=/home/reazmoj/Documents/code-scripts/modern-bash-gui.sh
+Comment=nothing
+Terminal=false
+Icon=display-brightness-symbolic
+Type=Application
